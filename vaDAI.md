@@ -1,4 +1,4 @@
-# vaUNI pool
+# vaDAI pool
 |Strategy | Weight |
 |-------: | --------|
 |Convex | 85%     |
