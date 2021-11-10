@@ -1,8 +1,11 @@
 # vaDAI pool
 |Strategy | Weight |
 |-------: | --------|
-|Convex | 85%     |
+|Convex | 0%     |
 |Yearn| 0%     |
-|Rari fuse pool#23 | 10%     |
-|Compound Leverage | 0.1%     |
-|Pool buffer | 4.9%     |
+|Rari fuse pool#6 | 30%     |
+|Rari fuse pool#7 | 15%     |
+|Rari fuse pool#8 | 10%     |
+|Rari fuse pool#18 | 30%     |
+|Rari fuse pool#23 | 12%     |
+|Pool buffer | 3%     |
