@@ -1,11 +1,11 @@
 # vFRAX pool
 |Strategy | Weight |
 |-------: | --------|
-|Rari Fuse #6 | 45%     |
+|Rari Fuse #6 | 40%     |
 |Rari Fuse #7 | 20%     |
-|Rari Fuse #18 | 10%     |
-|Rari Fuse #27 | 10%     |
-|Rari Fuse #36 | 10%     |
+|Rari Fuse #18 | 20%     |
+|Rari Fuse #27 | 0%     |
+|Rari Fuse #36 | 15%     |
 |Aave | 0%     |
 |Pool buffer | 5%     |
 
