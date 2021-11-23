@@ -15,3 +15,4 @@ Submit pull-requests for Vesper pool operations.
 ## Orbit Pools
 - [vaALUSD](./vaALUSD.md)
 - [vaFEI](./vaFEI.md)
+- [vaFRAX](./vaFRAX.md)
