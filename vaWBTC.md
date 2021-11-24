@@ -1,9 +1,8 @@
 # vaWBTC pool
 |Strategy | Weight |
 |-------: | --------|
-|Convex | 40%     |
-|Yearn| 0%     |
-|Maker-vaDAI | 40%   | 
-|Rari fuse pool#23 | 10%     |
-|Compound Leverage | 0%     |
-|Pool buffer | 5%     |
+|Curve| 0%     |
+|Curve Convex| 15%     |
+|Rari fuse pool#23 | 9%     |
+|Maker WBTC | 70%    |
+|Pool buffer | 6%     |
