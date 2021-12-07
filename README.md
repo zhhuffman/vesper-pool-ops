@@ -24,6 +24,7 @@ Submit pull-requests for Vesper pool operations.
 - [veDAI-ETH](./veDAI-ETH.md)
 - [veWBTC-DAI](./veWBTC-DAI.md)
 - [veDAI-WBTC](./veDAI-WBTC.md)
+- [veDAI-DPI](./veDAI-DPI.md)
 
 ## Orbit Pools
 - [vaALUSD](./vaALUSD.md)
