@@ -1,5 +1,5 @@
 # veDAI-VSP pool
 |Strategy | Weight |
 |-------: | --------|
-|Vesper-DAI-VSP |0%      |
-|Pool buffer | 100%     |
+|Vesper-DAI-VSP | 95%      |
+|Pool buffer | 5%     |
